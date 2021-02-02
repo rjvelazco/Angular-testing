@@ -19,7 +19,7 @@ describe('Medico Component', () => {
 
     // Regresa un ComponentFixture.
     fixture = TestBed.createComponent(MedicoComponent);
-    // Asignamo una instancia del fixture para tener acceso al component HTML.
+    // Asignamos una instancia del fixture para tener acceso al component HTML.
     component = fixture.componentInstance;
   });
 
